@@ -1,5 +1,5 @@
-let myuser = {name: "hitesh", age: 10}
+let myuser = {name: "Bhanoo", age: 10}
 
-console.log("Hitesh");
+console.log("Bhanoo");
 //console.log(user.email);
 
